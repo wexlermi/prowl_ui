@@ -1,9 +1,9 @@
 <prowl>
-  <doc.xml>
+  <test version="default">
     <default>
       <window_size>1000</window_size>
       <security>high</security>
       <client>defence</client>
     </default>
-  </doc.xml>
+  </test>
 </prowl>

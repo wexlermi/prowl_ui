@@ -1,9 +1,10 @@
 <prowl>
-  <doc.xml>
+  <test.xml>
     <default>
       <window_size>1000</window_size>
       <security>high</security>
-      <client>defence</client>
+      <level>7</level>
+      <client>military</client>
     </default>
-  </doc.xml>
+  </test.xml>
 </prowl>

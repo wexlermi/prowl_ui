@@ -1,5 +1,5 @@
 <prowl>
-  <prowltest.xml>
+  <prowltest version="default">
     <default>
       <a>1</a>
       <b>2</b>
@@ -7,5 +7,5 @@
       <d>4</d>
       <e>6000</e>
     </default>
-  </prowltest.xml>
+  </prowltest>
 </prowl>
